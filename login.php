@@ -59,7 +59,7 @@
                            
 
                            <div class="col-md-12">
-                              <button name= "submit" class="send_btn">Login</button>
+                              <button name= "click" class="send_btn">Login</button>
                            </div>
                         </div>
                      </form>
