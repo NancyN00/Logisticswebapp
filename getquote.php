@@ -16,7 +16,7 @@
     if($register){
        echo 'welcome';
         }else{
-        echo 'try again';
+        echo 'sorry about that, repeat!';
     }
 
 }
